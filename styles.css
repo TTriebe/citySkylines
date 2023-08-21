@@ -72,6 +72,11 @@ body {
   position: absolute;
   top: 0;
 }
+.foreground-buildings, .background-buildings{
+top: 0;
+position: absolute;
+
+}
 .fb1 {
   width: 10%;
   height: 60%;
