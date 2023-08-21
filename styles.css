@@ -83,7 +83,18 @@ body {
   height: 58%;
   background-color: var(--building-color4);
 }
-
+.bb4a{
+  width: 3%;
+  height: 10%;
+}
+.bb4b{
+  width: 80%;
+  height: 5%;
+}
+.bb4c{
+  width: 100%;
+  height: 85%;
+}
 .foreground-buildings,
 .background-buildings {
   top: 0;
